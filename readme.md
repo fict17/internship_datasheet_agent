@@ -9,7 +9,7 @@
 
 ## 分工
 - 爬虫 （黄钰惠） —— 已完成，代码在 C:\Users\ThinkBook\PycharmProjects\internship_pro_03\elecfans
-- 封装tool + PPT模板
+- 封装tool + PPT模板(杨怡锦)
 - agent框架
 - 向量数据库
 - CLI交互
